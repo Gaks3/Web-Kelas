@@ -21,9 +21,9 @@ export const metadata: Metadata = {
     images: ['/ogimage.jpg'],
   },
   keywords: ['SIJA', 'sija', 'informatics', 'sija 26', 'xi sija 1'],
-  // verification: {
-  //   google: 'Xb4mBMd3NGOVBRDGeombjSwLCv7uPQocGOjvz6BRSbo',
-  // },
+  verification: {
+    google: '_-X36VnEIWAWaq6cTM8oxBtvycZTDqRUnIvbaAuCdB4',
+  },
 }
 
 export default function RootLayout({
