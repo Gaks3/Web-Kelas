@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     nocache: true,
     googleBot: {
       index: true,
-      follow: true,
+      follow: false,
     },
   },
 }
