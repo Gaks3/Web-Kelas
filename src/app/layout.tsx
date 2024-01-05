@@ -37,7 +37,7 @@ export const metadata: Metadata = {
       follow: true,
     },
   },
-  authors: [{ name: 'XI SIJA 1'}],
+  authors: [{ name: 'Ade Bagas Wicaksono'}],
   creator: 'XI SIJA 1',
   publisher: 'XI SIJA 1',
   applicationName: 'XI SIJA 1',
