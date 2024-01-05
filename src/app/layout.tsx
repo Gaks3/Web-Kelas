@@ -14,6 +14,7 @@ export const metadata: Metadata = {
     title: 'XI SIJA 1',
     description: 'XI SIJA 1',
     images: ['/ogimage.jpg'],
+    siteName: 'XI SIJA 1'
   },
   twitter: {
     title: 'XI SIJA 1',
