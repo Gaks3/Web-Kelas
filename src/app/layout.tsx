@@ -33,6 +33,10 @@ export const metadata: Metadata = {
       follow: false,
     },
   },
+  authors: [{ name: 'XI SIJA 1'}],
+  creator: 'XI SIJA 1',
+  publisher: 'XI SIJA 1',
+  applicationName: 'XI SIJA 1'
 }
 
 export default function RootLayout({
