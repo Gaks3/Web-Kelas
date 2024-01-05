@@ -43,6 +43,9 @@ export const metadata: Metadata = {
     icon: '/favicon.ico',
     shortcut: '/favicon.ico'
   },
+  alternates: {
+    canonical: 'https://informaticsone.vercel.app'
+  }
 }
 
 export default function RootLayout({
