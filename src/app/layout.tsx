@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   applicationName: 'XI SIJA 1',
   generator: 'XI SIJA 1',
   icons: {
-    icon: [{ url: '/logo.png', sizes: '252x212'}, { url: '/logo 192.png', sizes: '192x192' }, { url: '/logo 96.png', sizes: '96x96'}],
+    icon: [{ url: '/logo.png', sizes: '252x212', type: 'image/png'}, { url: '/logo 192.png', sizes: '192x192', type: 'image/png' }, { url: '/logo 96.png', sizes: '96x96', type: 'image/png'}],
   },
   alternates: {
     canonical: 'https://informaticsone.vercel.app'
