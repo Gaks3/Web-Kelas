@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     nocache: true,
     googleBot: {
       index: true,
-      follow: false,
+      follow: true,
     },
   },
   authors: [{ name: 'XI SIJA 1'}],
