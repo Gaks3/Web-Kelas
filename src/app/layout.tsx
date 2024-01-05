@@ -37,7 +37,11 @@ export const metadata: Metadata = {
   creator: 'XI SIJA 1',
   publisher: 'XI SIJA 1',
   applicationName: 'XI SIJA 1',
-  generator: 'XI SIJA 1'
+  generator: 'XI SIJA 1',
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico'
+  }
 }
 
 export default function RootLayout({
