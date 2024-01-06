@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     description: 'Kelas',
     images: ['/ogimage.jpg'],
   },
-  keywords: ['SIJA', 'sija', 'informatics', 'sija 26', 'xi sija 1'],
+  keywords: ['SIJA', 'sija', 'informatics', 'sija 26', 'xi sija 1', 'informatics 26', 'xii sija 1', '11 sija 1', 'sija smk 2 yogyakarta', 'sija smk n 2 yogyakarta'],
   verification: {
     google: '_-X36VnEIWAWaq6cTM8oxBtvycZTDqRUnIvbaAuCdB4',
   },
